@@ -1,0 +1,296 @@
+sn,id,stock_name,symbol,sector
+138,131,Nabil Bank Limited,NABIL,Commercial Banks
+119,132,Nepal Investment Bank Limited,NIB,Commercial Banks
+29,133,Standard Chartered Bank Limited,SCB,Commercial Banks
+189,134,Himalayan Bank Limited,HBL,Commercial Banks
+114,135,Nepal SBI Bank Limited,SBI,Commercial Banks
+129,136,Nepal Bangladesh Bank Limited,NBB,Commercial Banks
+219,137,Everest Bank Limited,EBL,Commercial Banks
+248,138,Bank of Kathmandu Ltd.,BOKL,Commercial Banks
+102,139,NIC Asia Bank Ltd.,NICA,Commercial Banks
+154,140,Machhapuchhre Bank Limited,MBL,Commercial Banks
+162,141,Laxmi Bank Limited,LBL,Commercial Banks
+165,142,Kumari Bank Limited,KBL,Commercial Banks
+126,144,Nepal Credit And Commercial Bank Limited,NCCB,Commercial Banks
+38,145,Siddhartha Bank Limited,SBL,Commercial Banks
+1,146,Yak And Yeti Hotel Limited,YHL,Hotels
+31,147,Soaltee Hotel Limited,SHL,Hotels
+15,148,Taragaon Regency Hotel Limited,TRH,Hotels
+90,149,Oriental Hotels Limited,OHL,Hotels
+124,151,Nepal Film Development Company Limited,NFD,Others
+134,152,National Hydro Power Company Limited,NHPC,Hydro Power
+240,153,Butwal Power Company Limited,BPCL,Hydro Power
+231,154,Chilime Hydropower Company Limited,CHCL,Hydro Power
+61,155,Salt Trading Corporation,STC,Tradings
+243,156,Bishal Bazar Company Limited,BBC,Tradings
+111,158,Nepal Tading Limited,NTL,Tradings
+109,159,Nepal Welfare Company Limited,NWC,Tradings
+99,160,NIDC Development Bank Ltd.,NIDC,Development Banks
+98,163,Nirdhan Utthan Laghubitta Bittiya Sanstha Limited,NUBL,Microfinance
+233,164,Chhimek Laghubitta Bikas Bank Limited,CBBL,Microfinance
+221,166,Deprosc Laghubitta Bittiya Sanstha Limited,DDBL,Microfinance
+55,171,Sanima Bank Limited,SANIMA,Commercial Banks
+135,172,Narayani Development Bank Limited,NABBC,Development Banks
+62,174,Sahayogi Bikas Bank Limited,SBBLJ,Development Banks
+120,176,Nepal Insurance Co. Ltd.,NICL,Non Life Insurance
+74,177,Rastriya Beema Company Limited,RBCL,Non Life Insurance
+133,178,National Life Insurance Co. Ltd.,NLICL,Life Insurance
+186,179,Himalayan General Insurance Co. Ltd,HGI,Non Life Insurance
+8,180,United Insurance Co. (Nepal) Ltd.,UIC,Non Life Insurance
+217,181,Everest Insurance Co. Ltd.,EIC,Non Life Insurance
+82,182,Premier Insurance Co. Ltd.,PIC,Non Life Insurance
+131,183,Neco Insurance Co. Ltd.,NIL,Non Life Insurance
+85,184,Prabhu Insurance Ltd.,PRIN,Non Life Insurance
+64,185,Sagarmatha Insurance Co. Ltd.,SIC,Non Life Insurance
+182,186,IME General Insurance Ltd.,IGI,Non Life Insurance
+117,187,Nepal Life Insurance Co. Ltd.,NLIC,Life Insurance
+157,188,Life Insurance Co. Nepal,LICN,Life Insurance
+78,189,Prudential Insurance Co. Ltd.,PICL,Non Life Insurance
+155,190,Lumbini General Insurance Co. Ltd.,LGIL,Non Life Insurance
+46,192,Shikhar Insurance Co. Ltd.,SICL,Non Life Insurance
+123,194,Nepal Finance Ltd.,NFS,Finance
+242,195,Bottlers Nepal (Balaju) Limited,BNL,Manufacturing And Processing
+116,198,Nepal Lube Oil Limited,NLO,Manufacturing And Processing
+112,200,Nepal Share Markets Ltd.,NSM,Finance
+110,201,Nepal Vanaspati Ghee Udhyog Limited,NVG,Manufacturing And Processing
+76,203,Raghupati Jute Mills Limited,RJM,Manufacturing And Processing
+195,204,Gurkhas Finance Ltd.,GUFL,Finance
+239,205,Butwal Spinning Mills Limited,BSM,Manufacturing And Processing
+202,207,Gorakhkali Rubber Udhyog Limited,GRU,Manufacturing And Processing
+173,209,Jyoti Sinning Mills Limited,JSM,Manufacturing And Processing
+229,210,Citizen Investment Trust,CIT,Investment
+251,211,Arun Vanaspati Udhyog Limited,AVU,Manufacturing And Processing
+241,213,Bottlers Nepal (Terai) Limited,BNT,Manufacturing And Processing
+193,215,Harisiddhi Brick And Tiles Limited,HBT,Manufacturing And Processing
+244,217,Birat Shoe Limited,BSL,Manufacturing And Processing
+13,219,Unilever Nepal Limited,UNL,Manufacturing And Processing
+59,221,Samjhana Finance Co. Ltd.,SFC,Finance
+118,222,Nepal Khadya Udhyog Limited,NKU,Manufacturing And Processing
+42,226,Shree Bhrikuti Pulp And Paper Limited,SBPP,Manufacturing And Processing
+246,227,Best Finance Company Ltd.,BFC,Finance
+214,228,Fleur Himalayan Limited,FHL,Manufacturing And Processing
+40,230,Shree Ram Sugar Mills Limited,SRS,Manufacturing And Processing
+163,231,Lalitpur Finance Ltd.,LFC,Finance
+203,232,Goodwill Finance Co. Ltd.,GFCL,Finance
+127,233,Nepal Bitumin And Barrel Udhyog Limited,NBBU,Manufacturing And Processing
+188,235,Himalayan Distillery Limited,HDL,Manufacturing And Processing
+87,236,Pokhara Finance Ltd.,PFL,Finance
+94,238,NMB Bank Limited,NMB,Commercial Banks
+10,242,United Finance Ltd.,UFL,Finance
+41,244,Shree Investment Finance Co. Ltd.,SIFC,Finance
+236,245,Central Finance Co. Ltd.,CFCL,Finance
+17,249,Synergy Finance Ltd.,SYFL,Finance
+180,250,Janaki Finance Ltd.,JFL,Finance
+86,255,Prabhu  Bank Limited,PRVU,Commercial Banks
+58,256,Samriddhi Finance Company Limited,SFCL,Finance
+238,259,Capital Merchant Bank & Finance Co. Ltd.,CMB,Finance
+39,261,Shrijana Finance  (Bittaya Sanstha),SFFIL,Finance
+198,263,Guheshowori Merchant Bank & Finance Co. Ltd.,GMFIL,Finance
+21,268,Swabalamban Laghubitta Bittiya Sanstha Limited,SWBBL,Microfinance
+183,273,ICFC Finance Limited,ICFC,Finance
+216,274,Excel Development Bank Ltd.,EDBL,Development Banks
+218,277,Everest Bank Limited Con. Pref.,EBLCP,Preferred Stock
+35,280,Siddhartha Insurance Ltd.,SIL,Non Life Insurance
+226,296,City Express Finance Co. Limited,CEFL,Finance
+125,307,Nepal Doorsanchar Comapany Limited,NTC,Others
+79,338,ProgressiveFinance Limited,PROFL,Finance
+206,341,Global IME Bank Limited,GBIME,Commercial Banks
+230,348,Citizen Bank International Limited,CZBIL,Commercial Banks
+81,357,Prime Commercial Bank Ltd.,PCBL,Commercial Banks
+156,358,Lumbini Bikas Bank Ltd.,LBBL,Development Banks
+27,359,Sunrise Bank Limited,SRBL,Commercial Banks
+252,360,Arun Valley Hydropower Development Co. Ltd.,AHPC,Hydro Power
+222,361,Crystal Finance Ltd.,CFL,Finance
+145,371,Miteri Development Bank Limited,MDB,Development Banks
+249,385,Asian Life Insurance Co. Limited,ALICL,Life Insurance
+80,393,Prime Life Insurance Company Limited,PLIC,Life Insurance
+108,396,Nerude Laghubita Bikas Bank Limited,NLBBL,Microfinance
+258,397,Agriculture Development Bank Limited,ADBL,Commercial Banks
+91,398,Om Development Bank Ltd.,ODBL,Development Banks
+153,401,Mahalaxmi Bikas Bank Ltd.,MLBL,Development Banks
+23,403,Surya Life Insurance Company Limited,SLICL,Life Insurance
+210,417,Garima Bikas Bank Limited,GBBL,Development Banks
+175,418,Jyoti Bikas Bank Limited,JBBL,Development Banks
+169,419,Kankai Bikas Bank Ltd.,KNBL,Development Banks
+211,420,Gandaki Bikas Bank Limited,GDBL,Development Banks
+192,421,Hathway Finance Company Limited,HATH,Finance
+168,428,Karnali Development Bank Limited,KRBL,Development Banks
+187,441,Himalayan Finance Limited (Bittiya Sanstha),HFL,Finance
+196,447,Gurans Life Insurance Company Ltd.,GLICL,Life Insurance
+223,450,Corporate Development Bank Limited,CORBL,Development Banks
+170,459,Kamana Sewa Bikas Bank Limited,KSBBL,Development Banks
+140,471,Multipurpose Finance Company  Limited,MPFL,Finance
+47,472,Shangrila Development Bank Ltd.,SADBL,Development Banks
+45,473,Shine Resunga Development Bank Ltd.,SHINE,Development Banks
+141,474,Muktinath Bikas Bank Ltd.,MNBBL,Development Banks
+245,487,Bhargav Bikash Bank Ltd.,BHBL,Development Banks
+215,490,First Micro Finance Development Bank Ltd.,FMDBL,Microfinance
+179,496,Janata Bank Nepal Ltd.,JBNL,Commercial Banks
+28,502,Summit Laghubitta Bittiya Sanstha Limited,SMFDB,Microfinance
+149,516,Manjushree Finance Ltd.,MFIL,Finance
+128,517,Nepal Bank Limited,NBL,Commercial Banks
+225,532,Civil Bank Ltd,CBL,Commercial Banks
+18,545,Swarojgar Laghu Bitta Bikas Bank Ltd.,SLBBL,Microfinance
+97,559,NLG Insurance Company Ltd.,NLG,Non Life Insurance
+33,561,Sindhu Bikash Bank Ltd,SINDU,Development Banks
+148,562,Mega  Bank Nepal Ltd.,MEGA,Commercial Banks
+56,574,Sana Kisan Bikas Bank Ltd,SKBBL,Microfinance
+69,575,RMDC Laghubitta Bittiya Sanstha Ltd.,RMDC,Microfinance
+194,576,Hamro Bikas Bank Ltd.,HAMRO,Development Banks
+201,583,Grameen Bikas Laghubitta Bittiya Sanstha Ltd.,GBLBS,Microfinance
+72,587,Reliance Finance Ltd.,RLFL,Finance
+51,591,Sanima Mai Hydropower Ltd.,SHPC,Hydro Power
+48,592,Sarathi Nepal Laghubitta Bittiya Sanstha Limited,SNLB,Microfinance
+172,593,Kalika Microcredit Development Bank Ltd.,KMCDB,Microfinance
+144,601,Mithila LaghuBitta Bittiya Sanstha Limited,MLBBL,Microfinance
+235,605,Century Commercial Bank Ltd.,CCBL,Commercial Banks
+70,610,Ridi Hydropower Development Company Ltd.,RHPC,Hydro Power
+36,616,Siddhartha Equity Orineted Scheme,SEOS,Mutual Fund
+160,618,Laxmi Laghubitta Bittiya Sanstha Ltd.,LLBS,Microfinance
+63,625,Sahara Bikas Bank Ltd.,SHBL,Development Banks
+104,636,NIBL Samriddhi Fund 1,NIBSF1,Mutual Fund
+146,682,Mirmire Microfinance Development Bank Ltd.,MMFDB,Microfinance
+247,686,Barun Hydropower Co. Ltd.,BARUN,Hydro Power
+3,687,Vijaya laghubitta Bittiya Sanstha Ltd.,VLBS,Microfinance
+151,691,Mahila Sahayatra Microfinance Bittiya Sanstha Ltd.,MSMBS,Microfinance
+224,693,Civil Laghubitta Bittiya Sanstha Ltd.,CLBSL,Microfinance
+166,694,Kisan Lagubitta Bittiya Sanstha Limited,KLBSL,Microfinance
+178,695,Janautthan Samudayic Laghubitta Bikas Bank Ltd.,JSLBB,Microfinance
+255,697,Api Power Company Ltd.,API,Hydro Power
+96,704,NMB  Microfinance Bittiya Sanstha Ltd.,NMBMF,Microfinance
+205,705,Global IME Laghubitta Bittiya Sanstha Ltd.,GILB,Microfinance
+2,706,Womi Microfinance Bittiya Sanstha Ltd.,WOMI,Microfinance
+204,1740,Global IME Samunnat Scheme-1,GIMES1,Mutual Fund
+147,1741,Mero Microfinance Bittiya Sanstha Ltd.,MERO,Microfinance
+184,2742,Hydorelectricity Investment and Development Company Ltd,HIDCL,Investment
+107,2743,Ngadi Group Power Ltd.,NGPL,Hydro Power
+200,2744,Green Development Bank Ltd.,GRDBL,Development Banks
+132,2746,National Microfinance Bittiya Sanstha Ltd.,NMFBS,Microfinance
+68,2748,RSDC Laghubitta Bittiya Sanstha Ltd.,RSDC,Microfinance
+22,2750,Suryodaya Laghubitta Bittiya Sanstha Ltd.,SLBS,Microfinance
+167,2751,Khanikhola Hydropower Co. Ltd.,KKHC,Hydro Power
+93,2752,NMB Hybrid Fund L-1,NMBHF1,Mutual Fund
+137,2753,Nabil Equity Fund,NEF,Mutual Fund
+220,2754,Dibyashwori Hydropower Ltd.,DHPL,Hydro Power
+106,2755,NIBL Pragati Fund,NIBLPF,Mutual Fund
+253,2757,Arun Kabeli Power Ltd.,AKPL,Hydro Power
+213,2758,Forward Community Microfinance Bittiya Sanstha Ltd.,FOWAD,Microfinance
+16,2759,Synergy Power Development Ltd.,SPDL,Hydro Power
+7,2760,United Modi Hydropower Ltd.,UMHL,Hydro Power
+60,2761,Samata Gharelu Laghubitta Bittiya Sanstha Limited,SMATA,Microfinance
+19,2764,Swadeshi Laghubitta Bittiya Sanstha Ltd.,SDESI,Microfinance
+161,2765,Laxmi Equity Fund,LEMF,Mutual Fund
+232,2766,Chhyangdi Hydropower Ltd.,CHL,Hydro Power
+185,2767,Himalayan Power Partner Ltd.,HPPL,Hydro Power
+150,2768,Mahuli Samudayik Laghubitta Bittiya Sanstha Ltd.,MSLB,Microfinance
+122,2769,Nepal Hydro Developers Ltd.,NHDL,Hydro Power
+37,2770,Siddhartha Equity Fund,SEF,Mutual Fund
+24,2771,Support Microfinance Bittiya Sanstha Ltd.,SMB,Microfinance
+54,2773,Sanima Equity Fund,SAEF,Mutual Fund
+5,2774,Unnati Sahakarya Laghubitta Bittiya Sanstha Limited,USLB,Microfinance
+77,2776,Radhi Bidyut Company Ltd,RADHI,Hydro Power
+254,2777,Arambha Microfinance Bittiya Sanstha Ltd.,AMFI,Microfinance
+101,2779,NIC Asia Growth Fund,NICGF,Mutual Fund
+228,2780,Citizens Mutual Fund -1,CMF1,Mutual Fund
+113,2781,Nepal Seva Laghubitta Bittiya Sanstha Ltd.,NSEWA,Microfinance
+75,2783,Rairang Hydropower Development Company Ltd.,RRHP,Hydro Power
+136,2784,Nadep Laghubittiya bittya Sanstha Ltd.,NADEP,Microfinance
+89,2786,Panchakanya Mai Hydropower Ltd,PMHPL,Hydro Power
+171,2787,Kalika power Company Ltd,KPCL,Hydro Power
+256,2788,Ankhu Khola Jalvidhyut Company Ltd,AKJCL,Hydro Power
+176,2789,Joshi Hydropower Development Company Ltd,JOSHI,Hydro Power
+260,2790,Aarambha Chautari Laghubitta Bittiya Sanstha Limited,ACLBSL,Microfinance
+4,2792,Upper Tamakoshi Hydropower Ltd,UPPER,Hydro Power
+57,2804,Samudayik Laghubitta Bittiya Sanstha Limited,SLBSL,Microfinance
+208,2806,Ghalemdi Hydro Limited,GHL,Hydro Power
+250,2807,Asha Laghubitta Bittiya Sanstha Ltd,ALBSL,Microfinance
+43,2809,SHIVAM CEMENTS LTD,SHIVM,Manufacturing And Processing
+6,2810,UNIVERSAL POWER COMPANY LTD,UPCL,Hydro Power
+142,2811,Mountain Hydro Nepal Limited,MHNL,Hydro Power
+30,2812,Sparsha Laghubitta Bittiya Sanstha Limited,SPARS,Microfinance
+88,2813,Panchthar Power Compant Limited,PPCL,Hydro Power
+212,2815,Ganapati Microfinance Bittiya Sanstha Limited,GMFBS,Microfinance
+130,2816,Nepal Agro Laghubitta Bittiya Sanstha Limited,NAGRO,Microfinance
+190,2824,Himalaya Urja Bikas Company Limited,HURJA,Hydro Power
+290,2825,10% NIC Asia Debenture 2085/86,NICAD 85/86,Corporate Debenture
+197,2826,Gurans Laghubitta Bittiya Sanstha Limited,GLBSL,Microfinance
+288,2828,10% Sanima Bank Limited Debenture,SAND2085,Corporate Debenture
+20,2829,Swabhimaan Laghubitta Bittiya Sanstha Limited,SMFBS,Microfinance
+12,2831,Union Hydropower Limited,UNHPL,Hydro Power
+181,2832,Infinity Laghubitta Bittiya Sanstha Limited,ILBS,Microfinance
+287,2834,10% Sunrise Debenture 2080,SRD80,Corporate Debenture
+139,2835,NABIL BALANCED FUND-2,NBF2,Mutual Fund
+285,2840,10.25% GLOBAL IME BANK LTD. DEBENTURE 2080/81,GBD80/81,Corporate Debenture
+73,2841,RASUWAGADHI HYDROPOWER COMPANY LIMITED,RHPL,Hydro Power
+50,2842,SANJEN JALAVIDHYUT COMPANY LIMITED,SJCL,Hydro Power
+66,2843,SABAIKO LAGHUBITTA BITTIYA SANSTHA LIMITED,SABSL,Microfinance
+259,2845,ADHIKHOLA LAGHUBITTA BITTIYA SANSTHA LIMITED,AKBSL,Microfinance
+295,2850,10 % NMB DEBENTURE 2085,NMBD2085,Corporate Debenture
+276,2851,10.5 % NEPAL INVESTMENT DEBENTURE 2082,NIBD2082,Corporate Debenture
+207,2852,Ghodighoda Laghubitta Bittiya Sanstha Ltd.,GGBSL,Microfinance
+282,2854,10.25% NBBL Debenture 2085,NBBD2085,Corporate Debenture
+14,2855,Tinau Mission Development Bank Limited,TMDBL,Development Banks
+34,2859,Siddhartha Investment Growth Scheme - 2,SIGS2,Mutual Fund
+49,2860,Saptakoshi Development Bank Ltd,SAPDBL,Development Banks
+227,2862,CITIZENS MUTUAL FUND 2,CMF2,Mutual Fund
+103,2863,NIC Asia Balanced Fund,NICBF,Mutual Fund
+279,2864,10.25% SBL Debenture 2083,SBLD83,Corporate Debenture
+283,2866,10.25% Machhapuchhre Bank Debenture 2085,MBLD2085,Corporate Debenture
+95,2867,NMB 50,NMB50,Mutual Fund
+281,2868,10.25% NIC Asia Debenture 2083/84,NICD83/84,Corporate Debenture
+274,2869,11% NIC Asia Debenture 082/83,NICAD8283,Corporate Debenture
+270,2870,8% BOK Debenture 2079,BOKD2079,Corporate Debenture
+269,2871,8% EBL Debenture 2078,EBLD2078,Corporate Debenture
+275,2872,10.50% SBL Debenture 2082,SBLD2082,Corporate Debenture
+294,2873,10% Himalayan Bank Debenture 2083,HBLD83,Corporate Debenture
+280,2875,10.25% Prabhu Bank  Debenture 2086,PBLD86,Corporate Debenture
+25,2877,Sunrise First Mutual Fund,SFMF,Mutual Fund
+278,2878,10.25% Sunrise Bank Debenture 2083,SRBLD83,Corporate Debenture
+293,2879,10% Laxmi Bank Debenture 2086,LBLD86,Corporate Debenture
+191,2880,Himal Dolakha Hydropower Company Limited,HDHPC,Hydro Power
+115,2881,Nepal Reinsurance Company Limited,NRIC,Others
+272,2882,12% ICFC Finance Limited Debenture 2083,ICFCD83,Corporate Debenture
+273,2883,12 % Goodwill Finance Limited Debenture 2083,GWFD83,Corporate Debenture
+284,2885,10.25% KBL Debenture 2086,KBLD86,Corporate Debenture
+277,2886,10.35% Agricultural Bank Debenture 2083,ADBLD83,Corporate Debenture
+100,2887,NIC ASIA Laghubitta Bittiya Sanstha Limited,NICLBSL,Microfinance
+286,2889,10.25% Citizens Bank Debenture 2086,CIZBD86,Corporate Debenture
+291,2890,10% Nepal SBI Bank Debenture 2086,SBIBD86,Corporate Debenture
+292,2892,10% Nabil Debenture 2082,NBLD82,Corporate Debenture
+257,2893,Ajod Insurance Limited,AIL,Non Life Insurance
+263,2895,9% NIC Asia Debenture 2081/82,NICAD8182,Corporate Debenture
+65,2896,Sadhana Laghubitta Bittiya Sanstha Limited,SDLBSL,Microfinance
+92,2898,NRN Infrastructure and Development Limited,NRN,Investment
+71,2900,Reliance Life Insurance Limited,RLI,Life Insurance
+159,2902,Laxmi Unnati Kosh,LUK,Mutual Fund
+158,2903,Liberty Energy Company Limited,LEC,Hydro Power
+289,2904,10% Prabhu Bank Debenture 2084,PBLD84,Corporate Debenture
+209,2905,General Insurance Company Nepal Ltd,GIC,Non Life Insurance
+44,2907,Shiva Shree Hydropower Ltd,SSHL,Hydro Power
+53,2908,Sanima General Insurance Limited,SGI,Non Life Insurance
+265,2912,8.5% SBL Debenture 2084,SBLD84,Corporate Debenture
+143,2913,Mountain Energy Nepal Limited,MEN,Hydro Power
+9,2914,United IDI Mardi RB Hydropower Limited.,UMRH,Hydro Power
+84,2915,Prabhu Life Insurance Limited,PLI,Life Insurance
+234,2917,Chandragiri Hills Limited,CGH,Hotels
+121,2919,Nepal Infrastructure Bank Limited,NIFRA,Investment
+266,2922,8.5% Sanima Debenture 2087,SBD87,Corporate Debenture
+52,2923,Sanima Large Cap Fund,SLCF,Mutual Fund
+199,2924,GreenLife Hydropower Limited,GLH,Hydro Power
+152,2925,Mahila Lagubitta Bittiya Sanstha Limited,MLBSL,Microfinance
+174,2929,Jyoti Life Insurance Ltd,JLI,Life Insurance
+267,2931,8.5% Nepal Investment Bank Debenture 2084,NIBD84,Corporate Debenture
+262,2932,9.5% Manjushree Finance Limited Debenture 2085,MFLD85,Corporate Debenture
+164,2933,Kumari Equity Fund,KEF,Mutual Fund
+32,2934,Singati Hydro Energy Limited,SHEL,Hydro Power
+67,2935,Ru Ru Jalbidhyut Pariyojana Limited,RURU,Hydro Power
+261,2936,9.5% NCC Debenture 2086,NCCD86,Corporate Debenture
+26,2937,Sunrise Bluechip Fund,SBCF,Mutual Fund
+237,3946,CEDB Hydropower Development Company Limited,CHDC,Investment
+83,4947,Prabhu Select Fund,PSF,Mutual Fund
+264,4948,9% Kamana Sewa Bikas Bank Limited Debenture 2087,KSBBLD87,Corporate Debenture
+105,4949,NIBL Samriddhi Fund -2,NIBSF2,Mutual Fund
+177,4951,Jeevan Bikas laghubitta  bittya sanstha ltd,JBLB,Microfinance
+11,4956,Union Life Insurance Company Limited,ULI,Life Insurance
+268,4959,8.5% Nepal Bank Debenture 2087,NBLD87,Corporate Debenture
+271,4960,4% Agricultural Bond,ADBLB,Corporate Debenture

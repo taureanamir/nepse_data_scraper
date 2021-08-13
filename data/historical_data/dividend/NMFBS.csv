@@ -1,0 +1,5 @@
+sn,bonus_dividend,cash_dividend,total_dividend,book_closure_date,distribution_date,bonus_listing_date,fiscal_yr
+1,21.00,6.00,27.00,2021-02-26 [Closed],,2021-07-07,2076/2077
+2,75.00,5.00,80.00,2019-12-02 [Closed],,2020-06-18,2075/2076
+3,25.00,15.00,40.00,2018-12-01 [Closed],,,2074/2075
+4,20.00,15.00,35.00,2017-12-01 [Closed],,,2073/2074
